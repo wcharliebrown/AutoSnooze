@@ -55,3 +55,7 @@ moved to the paid team.
 
 Tap the dim gear button in the bottom-right corner to set the alarms.
 Indicator dots (AL1 / AL2) under the clock light up when an alarm is enabled.
+
+## License
+
+[MIT](LICENSE)
