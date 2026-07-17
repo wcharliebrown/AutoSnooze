@@ -49,3 +49,13 @@ bedside,clock,night,alarm,LED,digital,red,dim,nightstand,seven segment
 
 **Screenshots:** store_12h.png, store_24h.png in this folder
 (6.9-inch iPhone, 1320×2868 — drag both into the 6.9" slot)
+
+**App Review Information → Notes** (paste this so the reviewer understands
+the design):
+AutoSnooze is a bedside night clock, meant to stay open on a nightstand
+all night. By design, the screen never sleeps while the app is in the
+foreground, and alarms fire only while the app is open. When an alarm
+fires it plays its sound exactly once — no repeat and no snooze, so no
+dismiss UI is needed. To test: tap the gear (bottom right), enable Alarm
+1 a minute or two ahead, and keep the app in the foreground. Tap the
+display to reveal the brightness slider.
